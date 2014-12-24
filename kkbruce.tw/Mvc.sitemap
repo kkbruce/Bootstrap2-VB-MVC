@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mvcSiteMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="http://mvcsitemap.codeplex.com/schemas/MvcSiteMap-File-3.0"
+            xsi:schemaLocation="http://mvcsitemap.codeplex.com/schemas/MvcSiteMap-File-3.0 MvcSiteMapSchema.xsd"
+            enableLocalization="true">
+
+  <mvcSiteMapNode title="首頁" controller="Bootstrap" action="Index">
+    <mvcSiteMapNode title="旅程開始" controller="Bootstrap" action="GettingStarted"/>
+    <mvcSiteMapNode title="架構" controller="Bootstrap" action="Scaffolding"/>
+    <mvcSiteMapNode title="基礎CSS" controller="Bootstrap" action="BaseCSS"/>
+    <mvcSiteMapNode title="元件" controller="Bootstrap" action="Components"/>
+    <mvcSiteMapNode title="JavaScript" controller="Bootstrap" action="JavaScript"/>
+    <mvcSiteMapNode title="客製化" controller="Bootstrap" action="Customize"/>
+    <mvcSiteMapNode title="關於譯者" controller="Bootstrap" action="About"/>
+    <mvcSiteMapNode title="版本記錄" controller="Bootstrap" action="ChangeLog"/>
+    <mvcSiteMapNode title="留言" controller="Bootstrap" action="Comments"/>
+    <mvcSiteMapNode title="範例" controller="Bootstrap" action="Examples"/>
+  </mvcSiteMapNode>
+
+</mvcSiteMap>
