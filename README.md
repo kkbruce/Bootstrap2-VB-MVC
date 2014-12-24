@@ -5,3 +5,6 @@ Bootstrap2-VB-MVC
 2. 移除專案內原始授權，授權改為 MIT 釋出。
 3. 如果有使用到，僅要求留個姓名連結，請參考 _LayoutBootstrap.vbhtml 的`footer>p`方式。
 4. 2015年（底？），Bootstrap 3.x 中文手冊即將上線。 XXXXD
+
+2014年聖誕快樂。
+2015年新年快樂。
